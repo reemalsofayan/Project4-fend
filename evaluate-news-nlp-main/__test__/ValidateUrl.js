@@ -1,5 +1,5 @@
 
-import { ValidateURL } from "../src/client/js/urlChecker"
+import { ValidateURL } from "../src/client/js/ValidateUrl"
 
 describe("Testing the submit", () => {
  
